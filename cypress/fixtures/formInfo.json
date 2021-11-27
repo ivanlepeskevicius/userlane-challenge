@@ -1,0 +1,10 @@
+{
+  "name": "First Name",
+  "email": "test@email.com",
+  "phone": "15199999999",
+  "linkedin": "https://www.linkedin.com/in/ilepeskevicius/",
+  "github": "https://github.com/ivanlepeskevicius",
+  "availability": "As soon as possible",
+  "salary": "123456",
+  "additional": "This is an automated test, please ignore!"
+}
